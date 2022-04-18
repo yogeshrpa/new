@@ -16,6 +16,7 @@ function hello(){
     return "hello";
     //ni
     //ok
+    return "hello2from here  jljjla";
 }
 function abc(){
 
