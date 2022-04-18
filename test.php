@@ -1,4 +1,6 @@
 <?php
 function hello(){
-    echo "hello";
+    return "hello";
 }
+
+
