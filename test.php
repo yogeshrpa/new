@@ -7,8 +7,14 @@
 
 
 
+function hello2(){
+    return "hello";
+    //ni
+    //ok
+}
 function hello(){
     return "hello";
+    //ni
     //ok
 }
 function abc(){
