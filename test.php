@@ -7,9 +7,10 @@
 
 
 
-function hello(){
-    return "hello";
+function hello2(){
+    
     //ok
+    return "hello2from here  jljjla";
 }
 function abc(){
 
