@@ -8,9 +8,9 @@
 
 
 function hello2(){
-    return "hello";
+    return "he llo";
     //ni
-    //ok
+    //ok 
 }
 function hello(){
     return "hello";
